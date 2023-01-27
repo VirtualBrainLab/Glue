@@ -1,2 +1,3 @@
 # Glue (Graphics Library for Unity Experiments)
-(holding for later)
+
+"My experiments are held together by Glue"
