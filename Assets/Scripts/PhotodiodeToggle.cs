@@ -36,7 +36,7 @@ public class PhotodiodeToggle : MonoBehaviour
 
     private void LateUpdate()
     {
-        ReadFromSerialPort();
+        //ReadFromSerialPort();
     }
 
     public void ReadFromSerialPort()
