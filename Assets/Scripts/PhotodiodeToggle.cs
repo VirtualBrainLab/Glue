@@ -31,7 +31,7 @@ public class PhotodiodeToggle : MonoBehaviour
 
     private IEnumerator DelayedFlashRevert()
     {
-        yield return new WaitForSeconds(0.020f);
+        yield return new WaitForSeconds(0.005f);
         _black = !_black;
     }
 }
