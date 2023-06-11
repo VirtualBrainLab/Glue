@@ -1,1 +1,1 @@
-# Glue (Graphics Library for Unity Experiments)
+# Graphics Library for Unity-based Experiments (GLUE)
